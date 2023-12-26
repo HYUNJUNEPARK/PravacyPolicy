@@ -23,4 +23,4 @@ JuneP(“제작자”)는 안드로이드 애플리케이션 패스가드(“소
 
 <b>연락처</b>
 
-문의사항은 june2ac4dev@gamail.com으로 문의하시기 바랍니다.
+문의사항은 june2ac4dev@gmail.com으로 문의하시기 바랍니다.
